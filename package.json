@@ -40,5 +40,8 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^0.7.4"
   }
 }
